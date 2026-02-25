@@ -4,8 +4,7 @@
 
 📍 Oulu, Finland  
 📧 iamsharan77@gmail.com | 📞 +3580413297414  
-🌐 Portfolio: [sharan-writes.vercel.app](https://sharan-writes.vercel.app/)  
-🐱 GitHub: [SharanSapkota](https://github.com/SharanSapkota)  
+🌐 Portfolio/Articles: [sharan-writes.vercel.app](https://sharan-writes.vercel.app/)  
 
 ---
 
@@ -24,6 +23,7 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 
 ### **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -31,10 +31,8 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 
 ### **Tools & Platforms**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
