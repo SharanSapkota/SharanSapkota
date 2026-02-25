@@ -64,11 +64,6 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 
 ---
 
-## 📈 GitHub Stats
-![Sharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharanSapkota&show_icons=true&theme=radical&count_private=true)
-
----
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sharan-sapkota/)  
 - [Portfolio](https://sharan-writes.vercel.app/)  
