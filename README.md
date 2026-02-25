@@ -12,39 +12,45 @@
 ## 🧑‍💻 About Me
 Backend-leaning Full-Stack Software Engineer with **4+ years of experience** developing reliable software systems and automated testing workflows. Passionate about:
 
-- Embedded systems & hardware/software validation  
-- Measurement data processing and automation  
-- System testing, integration testing, debugging, and improving production reliability  
-
-Hands-on experience in **C++** for sensor data processing and **Python/Node.js** for automation and backend development. Motivated to build scalable systems and contribute to long-term testing environments.
-
----
-
 ## 🛠️ Technical Skills
 
-**Languages:** Python | C++ | JavaScript (ES6+) | TypeScript  
-**Frontend:** React.js | Angular | HTML5 | CSS3 | Responsive UI  
-**Backend:** Node.js | Express | REST API | Microservices | BullMQ  
-**Databases:** PostgreSQL | MongoDB | MSSQL | Vector DB (semantic search)  
-**Tools & Platforms:** Docker | CI/CD | Kubernetes (basic) | Linux | Git  
-**Practices:** Agile/Scrum | Design Patterns | Performance Tuning | Modular Systems  
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### **Tools & Platforms**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### **AI Chat App** (Python + Vector DB)  
+### **AI Chat App** (Python + Vector DB)
 - Built an AI-powered chat application with **structured chat history** and **semantic search**  
 - Backend microservices with **Node.js + PostgreSQL**, optimized database schema & indexing  
 - Implemented **BullMQ background jobs** for long-running workflows  
 - Integrated into **CI/CD pipelines** with Docker-based deployment  
 
-### **Peer-to-Peer Rental Platform** (Full-Stack)  
+### **Peer-to-Peer Rental Platform** (Full-Stack)
 - Developed **Node.js + PostgreSQL + React** full-stack rental platform  
 - Implemented **authentication, booking flow**, and optimized relational schema  
 - Designed scalable architecture for real-time booking and data management  
 
-### **Hydrogen Detection Sensor Project** (C++)  
+### **Hydrogen Detection Sensor Project** (C++)
 - Processed sensor measurement data with **validation and filtering**  
 - Debugged performance and timing issues for **long-duration tests**  
 - Gained hands-on experience with **hardware/software integration**  
