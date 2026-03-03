@@ -6,7 +6,6 @@
 📧 iamsharan77@gmail.com | 📞 +3580413297414  
 🌐 Portfolio/Articles: [sharan-writes.vercel.app](https://sharan-writes.vercel.app/)  
 <br>
-<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-sapkota-0a73561a1/)
 ---
 
