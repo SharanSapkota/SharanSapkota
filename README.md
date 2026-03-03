@@ -65,7 +65,7 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/sharan-sapkota-0a73561a1/])  
+- [LinkedIn](https://www.linkedin.com/in/sharan-sapkota-0a73561a1/)  
 - [Portfolio](https://sharan-writes.vercel.app/)  
 - Email: iamsharan77@gmail.com  
 
