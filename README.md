@@ -5,7 +5,7 @@
 📍 Oulu, Finland  
 📧 iamsharan77@gmail.com | 📞 +3580413297414  
 🌐 Portfolio/Articles: [sharan-writes.vercel.app](https://sharan-writes.vercel.app/)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-sapkota-0a73561a1/)
 ---
 
 ## 🧑‍💻 About Me
@@ -65,7 +65,7 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sharan-sapkota-0a73561a1/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-sapkota-0a73561a1/)  
 - [Portfolio](https://sharan-writes.vercel.app/)  
 - Email: iamsharan77@gmail.com  
 
