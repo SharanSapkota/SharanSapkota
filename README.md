@@ -54,8 +54,6 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 - Debugged performance and timing issues for **long-duration tests**  
 - Gained hands-on experience with **hardware/software integration**  
 
-*(More projects can be found in my [GitHub repositories](https://github.com/SharanSapkota))*
-
 ---
 
 ## 🏆 Achievements
