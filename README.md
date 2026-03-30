@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ram Sharan Sapkota
 
-**Full-Stack Software Engineer | Backend-Focused | MSc Computer Science Student**  
+** AI Engineer | Full-Stack Software Engineer | Backend-Focused | MSc Computer Science Student**  
 
 📍 Oulu, Finland  
 📧 iamsharan77@gmail.com | 📞 +3580413297414  
@@ -42,17 +42,18 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 - Built an AI-powered chat application with **structured chat history** and **semantic search**  
 - Backend microservices with **Node.js + PostgreSQL**, optimized database schema & indexing  
 - Implemented **BullMQ background jobs** for long-running workflows  
-- Integrated into **CI/CD pipelines** with Docker-based deployment  
+- Integrated into **CI/CD pipelines** with Docker-based deployment
+
+  ### **Hydrogen Detection Sensor Project** (C++)
+- Processed sensor measurement data with **validation and filtering**  
+- Implemented **KNN and Random Forest models** for sensor data classification and anomaly detection
+- Gained hands-on experience with **hardware/software integration**  
 
 ### **Peer-to-Peer Rental Platform** (Full-Stack)
 - Developed **Node.js + PostgreSQL + React** full-stack rental platform  
 - Implemented **authentication, booking flow**, and optimized relational schema  
 - Designed scalable architecture for real-time booking and data management  
 
-### **Hydrogen Detection Sensor Project** (C++)
-- Processed sensor measurement data with **validation and filtering**  
-- Debugged performance and timing issues for **long-duration tests**  
-- Gained hands-on experience with **hardware/software integration**  
 
 ---
 
