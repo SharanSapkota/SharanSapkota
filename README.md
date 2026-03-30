@@ -44,7 +44,7 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 - Implemented **BullMQ background jobs** for long-running workflows  
 - Integrated into **CI/CD pipelines** with Docker-based deployment
 
-  ### **Hydrogen Detection Sensor Project** (C++)
+### **Hydrogen Detection Sensor Project** (C++)
 - Processed sensor measurement data with **validation and filtering**  
 - Implemented **KNN and Random Forest models** for sensor data classification and anomaly detection
 - Gained hands-on experience with **hardware/software integration**  
