@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Ram Sharan Sapkota
+# Hi, I'm Ram Sharan Sapkota
 
 ** AI Engineer | Full-Stack Software Engineer | Backend-Focused | MSc Computer Science Student**  
 
-📍 Oulu, Finland  
-📧 iamsharan77@gmail.com | 📞 +3580413297414  
-🌐 Portfolio/Articles: [sharan-writes.vercel.app](https://sharan-writes.vercel.app/)  
+Oulu, Finland  
+Email: iamsharan77@gmail.com | Phone: +3580413297414  
+Portfolio/Articles: [sharan-writes.vercel.app](https://sharan-writes.vercel.app/)  
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-sapkota-0a73561a1/)
 ---
 
-## 🧑‍💻 About Me
+## I am
 Backend-leaning Full-Stack Software Engineer with **4+ years of experience** developing reliable software systems and automated testing workflows. Passionate about:
 
-## 🛠️ Technical Skills
+## My Skills
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,7 +36,7 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ---
 
-## 🚀 Featured Projects
+## My Projects
 
 ### **AI Chat App** (Python + Vector DB)
 - Built an AI-powered chat application with **structured chat history** and **semantic search**  
@@ -57,18 +57,14 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 
 ---
 
-## 🏆 Achievements
+## Achievements
 - **1st Place**, Kickstart Competition — University of Oulu  
 - **1st Place**, Startup Weekend Oulu — Peer-to-peer bike rentals (backend + MVP architecture)  
 - **2nd Place**, Kickstart Final — Competed against top teams from OAMK and OSAO  
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-sapkota-0a73561a1/)  
 - [Portfolio](https://sharan-writes.vercel.app/)  
 - Email: iamsharan77@gmail.com  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
