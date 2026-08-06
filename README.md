@@ -59,7 +59,8 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 
 ## Achievements
 - **1st Place**, Kickstart Competition — University of Oulu  
-- **1st Place**, Startup Weekend Oulu — Peer-to-peer bike rentals (backend + MVP architecture)  
+- **1st Place**, Startup Weekend Oulu, 2025 — Peer-to-peer bike rentals (backend + MVP architecture)
+- **2nd Place**, Startup Weekend Oulu, 2026 — backend + MVP architecture  
 - **2nd Place**, Kickstart Final — Competed against top teams from OAMK and OSAO  
 
 ---
