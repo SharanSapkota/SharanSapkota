@@ -3,7 +3,7 @@
 ** AI Engineer | Full-Stack Software Engineer | Backend-Focused | MSc Computer Science Student**  
 
 Oulu, Finland  
-Email: iamsharan77@gmail.com | Phone: +3580413297414  
+Email: iamsharan77@gmail.com | Phone: +358404795455  
 Portfolio/Articles: [sharan-writes.vercel.app](https://sharan-writes.vercel.app/)  
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-sapkota-0a73561a1/)
