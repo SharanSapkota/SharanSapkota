@@ -10,7 +10,7 @@ Portfolio/Articles: [sharan-writes.vercel.app](https://sharan-writes.vercel.app/
 ---
 
 ## I am
-Backend-leaning Full-Stack Software Engineer with **4+ years of experience** developing reliable software systems and automated testing workflows. Passionate about:
+AI/Product Engineer with 4+ years of experience. Experience in Signal Processing, Deep Learning, RAG, LLMs, AI, Software Engineering
 
 ## My Skills
 
