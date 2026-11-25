@@ -38,6 +38,15 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 
 ## My Projects
 
+### **Vika** (TypeScript CLI + PostgreSQL), open source on npm
+- Built a CLI that reads production server logs and git history, finds errors that began right after a deploy, and names up to 3 suspect pull requests with a confidence level
+- Designed the error pipeline: log parsing for Python (gunicorn/uvicorn) and JavaScript, secret redaction, stack-trace fingerprinting and message-template learning to group hundreds of error lines into a few real problems
+- Implemented regression detection (new-error and spike rules with a noise check) and suspect attribution using git blame and history, including bugs hidden in helper functions
+- Built on PostgreSQL with versioned migrations, per-service bookmarks, and a lock so only one run happens at a time
+- Added human-approved actions: Jira/Linear tickets (one per bad deploy) and optional AI explanations that show the exact text first and never change the ranking
+- Computes change failure rate and time to restore from logs; runs on your own server and database, and works for monoliths and microservices
+- Published as the `vika-cli` npm package, with 300+ automated tests and a seeded-bug test suite
+
 ### **AI Chat App** (Python + Vector DB)
 - Built an AI-powered chat application with **structured chat history** and **semantic search**  
 - Backend microservices with **Node.js + PostgreSQL**, optimized database schema & indexing  
@@ -61,7 +70,8 @@ Backend-leaning Full-Stack Software Engineer with **4+ years of experience** dev
 - **1st Place**, Kickstart Competition — University of Oulu  
 - **1st Place**, Startup Weekend Oulu, 2025 — Peer-to-peer bike rentals (backend + MVP architecture)
 - **2nd Place**, Startup Weekend Oulu, 2026 — backend + MVP architecture  
-- **2nd Place**, Kickstart Final — Competed against top teams from OAMK and OSAO  
+- **2nd Place**, Kickstart Final — Competed against top teams from OAMK and OSAO
+- **3rd Place**, Oulu Hackathon — Solved problem for Kaleva media  
 
 ---
 
